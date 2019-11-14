@@ -1,7 +1,7 @@
 {
   "name": "git-waiting",
   "version": "0.1.0",
-  "description": "",
+  "description": "Hunt down unpushed commits",
   "main": "index.sh",
   "bin": {
     "git-waiting": "./index.sh"
